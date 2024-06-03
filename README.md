@@ -23,7 +23,7 @@ These programs are tested on Windows 10, 11 and Linux Mint v21.3 with `wine 6.0.
 => Result: ROM Manager crashes instantly when it boots up on Mint + Wine, other programs work fine, your millage may vary however. 
 
 Other Programs:
-- Bowser's Blueprint by falcobuster: will comment more if I actually know how this works :Kappa:
+- Bowser's Blueprint by falcobuster: https://blueprint64.ca/
 ### Tweaks 
 Tweaks are usually used to enhance or change the hack experience, and they are somewhat similar to cheat codes in this regard.
 - FrostyZako's ASM and Tweak Collection - Very good tweaks in general, but note that multiple tweaks are included per file, so please extract them accordingly.
