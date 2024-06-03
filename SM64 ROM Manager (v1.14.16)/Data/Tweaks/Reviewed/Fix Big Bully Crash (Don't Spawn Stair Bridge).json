@@ -1,0 +1,24 @@
+{
+  "Name": "Fix Big Bully Crash (Don't Spawn Stair Bridge)",
+  "Scripts": [
+    {
+      "Name": "",
+      "Script": "A69B0: 00 00 00 00",
+      "Type": "TweakScript",
+      "Description": "",
+      "ReferencesV2": [],
+      "ID": "691CDEA31428F0CC093BBB22C4DA9C44",
+      "AllowRevert": true
+    }
+  ],
+  "Version": "1.0.0.0",
+  "MinVersion": "1.9.0.0",
+  "MaxVersion": "0.0.0.0",
+  "Description": "Removes the command to spawn the bridge the bully creates, preventing a crash",
+  "EmbeddedFiles": {
+    "CompressedFiles": {}
+  },
+  "ID": "7F1102D2D34AA7702D58595387A56092",
+  "Official": false,
+  "Recommended": false
+}

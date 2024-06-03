@@ -1,0 +1,3 @@
+<?xml version="1.0"?><!--Mario 64 Tweak File--><m64tweak><description>Moves and extends the bank containing the title model data, required for certain custom importer presets.</description><patch>269EC4: 00 49 E7 10
+269EC8: 00 50 1D 84 //increased size by overwriting old stage MIO0 data
+49E710: [copy, AED714, AFA054]</patch></m64tweak>

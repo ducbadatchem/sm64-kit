@@ -1,0 +1,24 @@
+{
+  "Name": "TTC Objects without Fog",
+  "Scripts": [
+    {
+      "Name": "Enable",
+      "Script": "DF84205: 00\r\nF8420C: 00 44 30\r\nF84218: C0 00 00 00 00 00 00 00\r\nF84228: B6\r\nF83BF5: 00\r\nF83BFC: 00 44 30\r\nF83C08: C0 00 00 00 00 00 00 00\r\nF83C18: B6\r\nF830FE: 00\r\nF83104: 00 44 30\r\nF83110: C0 00 00 00 00 00 00 00\r\nF83120: B6\r\nF84335: 00\r\nF8433C: 00 44 30\r\nF84348: C0 00 00 00 00 00 00 00\r\nF84358: B6\r\nF81C75: 00\r\nF81C7C: 00 44 30\r\nF81C88: C0 00 00 00 00 00 00 00\r\nF81C98: B6\r\nF8181D: 00\r\nF81824: 00 44 30\r\nF81830: C0 00 00 00 00 00 00 00\r\nF81840: B6\r\nF83765: 00\r\nF8376C: 00 44 30\r\nF83778: C0 00 00 00 00 00 00 00\r\nF83788: B6\r\nF82375: 00\r\nF8237C: 00 44 30\r\nF82388: C0 00 00 00 00 00 00 00\r\nF82398: B6\r\nF80D75: 00\r\nF80D7C: 00 44 30\r\nF80D88: C0 00 00 00 00 00 00 00\r\nF80D98: B6\r\nF82925: 00\r\nF8292C: 00 44 30\r\nF82938: C0 00 00 00 00 00 00 00\r\nF82948: B6\r\nF82DF5: 00\r\nF82DFC: 00 44 30\r\nF82E08: C0 00 00 00 00 00 00 00\r\nF82E18: B6\r\nF820A5: 00\r\nF820AC: 00 44 30\r\nF820B8: C0 00 00 00 00 00 00 00\r\nF820C8: B6\r\nF840E5: 00\r\nF840EC: 00 44 30\r\nF840F8: C0 00 00 00 00 00 00 00\r\nF84108: B6\r\nF8109D: 00\r\nF810A4: 00 44 30\r\nF810B0: C0 00 00 00 00 00 00 00\r\nF810C0: B6\r\nF8109D: 00\r\nF810A4: 00 44 30\r\nF840F8: C0 00 00 00 00 00 00 00\r\nF84108: B6\r\nF8884D: 00\r\nF88854: 00 44 30\r\nF88860: C0 00 00 00 00 00 00 00\r\nF88870: B6\r\n",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": "1C41E9BAE99C6E29402BAE950A3E15C6",
+      "AllowRevert": true
+    }
+  ],
+  "Version": "1.0.0.0",
+  "MinVersion": "1.0.0.0",
+  "MaxVersion": "0.0.0.0",
+  "Description": "Removes the fog of all TTC objects.",
+  "EmbeddedFiles": {
+    "CompressedFiles": {}
+  },
+  "ID": "0F9E0CDC03F045D7408A072CEAFD06BA",
+  "Official": false,
+  "Recommended": false
+}

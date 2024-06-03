@@ -1,0 +1,40 @@
+SM64 Editor RAM Map (Last Updated 2.1.3):
+0x800B3F78: End of bank 0x04
+0x801CE000: Music memory pool (music hack disabled)
+0x803D0000: Extended music data (music hack enabled)
+0x80402000 - 0x80410000: Copied from ROM 0x1202000 - 0x1210000
+0x80402300: Scrolling Texture Behavior Script
+0x80402400: Scrolling Texture Routine
+0x80402000: Modified Level Script Command 0x17 with static memory allocation
+0x80402700: CreateStar(x,y,z) function wrapper (replaces coordinates)
+0x80402E50: Camera Patch Level Table
+0x80402EC0: Act Selector Hack Level Table
+0x80402F00: Act Selector Hack
+0x80402F50: Camera Patch
+0x80403000: Water Pointers Hack
+0x80403500: Water Hack types
+0x80404F00 - 0x08405000: Star Positions
+0x80405000 - 0x8040F000: Trajectories
+0x80410000: Start of bank 0x05 (0x30000 allocated)
+0x80440000: Start of bank 0x06 (0x70000 allocated, less than this kill Bowser sounds)
+0x804B0000: Start of Bank 0x07 (0x40000 allocated)
+0x804F0000: Music memory pool (music hack enabled)/Extended music data (music hack disabled) (0x40000 allocated)
+0x80530000: Hacked collision triangles (0xB0000 allocated)
+0x805E0000: More hacked collision triangles (0x60000 allocated)
+0x80640000: Start of bank 0x13 (0x10000 allocated)
+0x80650000: Start of bank 0x0E
+
+SM64 Editor ROM Map:
+0x00000034: SM64 Editor Version Number
+0x0081C000: NInst Table (Previously 0x7F0000)
+0x0081D000: Sequence Names (Previously 0x7F1000)
+0x0081E000: Stage Names (Previously 0x7F2000)
+0x03E00000: Sequence Table
+0x04000000: End of default extended ROM size
+
+SM64 Original RAM Map:
+Music memory pool: 801D24A5/801D25CE/801D25E2 (0xD2138/0xD2158/0xD4598)
+Music Data: Dynamic (0xD48B4)
+
+Todo:
+*Find out where bank 0x0A was moved since earlier versions?

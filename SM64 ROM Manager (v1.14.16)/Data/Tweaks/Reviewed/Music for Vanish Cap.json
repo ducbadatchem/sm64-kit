@@ -1,0 +1,24 @@
+{
+  "Name": "Music for Vanish Cap",
+  "Scripts": [
+    {
+      "Name": "",
+      "Script": "ABFB: [sequence, \"Sequence to play\"]\r\n4FBC:\r\n8D F0 00 04\r\n32 19 00 04\r\n13 20 00 03\r\n32 11 00 08\r\n0C 09 24 E6\r\n24 04 04\r\n4FD4:\r\n10 11 00 03\r\n32 11 00 02\r\n0C 09 24 E6\r\n24 04 04\r\n4FE4:\r\n12 20 00 03\r\n00 00 00 00\r\n0C 09 24 E6\r\n24 04 04\r\n4FF3: [sequence, \"Sequence to play\"]",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": "FC349B7D17E7C8B1C6F61255DC7FA003",
+      "AllowRevert": true
+    }
+  ],
+  "Version": "1.0.0.0",
+  "MinVersion": "1.0.0.0",
+  "MaxVersion": "0.0.0.0",
+  "Description": "Modify the music which is played while Mario has a Vanish Cap.\nThe second value is for the music first played when entering the corresponding switch level.",
+  "EmbeddedFiles": {
+    "CompressedFiles": {}
+  },
+  "ID": "D21552189A5982F2AA307504D1CEEA0D",
+  "Official": false,
+  "Recommended": false
+}
