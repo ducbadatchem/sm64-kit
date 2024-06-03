@@ -1,3 +1,0 @@
-<?xml version="1.0"?><!--Mario 64 Tweak File--><m64tweak><description>Moves and extends the bank containing Mario's model data, required for certain custom importer presets.</description><patch>2ABCA4: 01 1A 35 B8
-2ABCA8: 01 1F FF 00 //increased size by 0x275D0, reduce in case of RAM overflow
-11A35B8: [copy, 823B64, 858EDC]</patch></m64tweak>

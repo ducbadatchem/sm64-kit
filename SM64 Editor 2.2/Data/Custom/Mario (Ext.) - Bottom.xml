@@ -1,4 +1,0 @@
-<?xml version="1.0"?><!--Mario 64 Custom Import File--><m64custom><ram>0404D378</ram><rom>11F0930</rom><limit>11F3930</limit><colpointer>00000000</colpointer><extra>//Requires "Extend Bank 0x04" tweak
-
-// Disable low-poly Mario.
-12A7C6: 2E 18</extra><collision>0</collision><geometry>127F04</geometry></m64custom>

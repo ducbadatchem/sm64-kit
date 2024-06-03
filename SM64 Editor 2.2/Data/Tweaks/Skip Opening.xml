@@ -1,9 +1,0 @@
-<?xml version="1.0"?><!--Mario 64 Tweak File--><m64tweak><description>Skip events which take place in the opening including Peach, Lakitu and level intros.</description><patch>// Peach
-6BD4: 24 00
-
-// Lakitu
-6D90: 24 10 00 00
-
-// Levels
-4B7C: 24 00
-4924: 10 00</patch></m64tweak>
