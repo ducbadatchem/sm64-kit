@@ -1,0 +1,3 @@
+<?xml version="1.0"?><!--Mario 64 Custom Import File--><m64custom><ram>07008FD0</ram><rom>01091B43</rom><limit>01098883</limit><colpointer>0021C0E4</colpointer><extra>495EE1: 01
+495EEC: 00 00 00 00
+495EF4: 00 00 00 00</extra><collision>1</collision><geometry>00495EE4</geometry></m64custom>

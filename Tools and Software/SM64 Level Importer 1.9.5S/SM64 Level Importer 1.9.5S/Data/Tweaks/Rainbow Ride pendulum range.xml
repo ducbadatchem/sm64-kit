@@ -1,0 +1,1 @@
+<?xml version="1.0"?><!--Mario 64 Tweak File--><m64tweak><description>Modifies the range of the Rainbow Ride pendulum platform oscillations. (Default 8192)</description><patch>CE26E: [half, "Range"]</patch></m64tweak>

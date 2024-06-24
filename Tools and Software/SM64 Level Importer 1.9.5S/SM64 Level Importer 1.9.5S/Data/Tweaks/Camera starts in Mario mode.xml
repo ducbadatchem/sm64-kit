@@ -1,0 +1,2 @@
+<?xml version="1.0"?><!--Mario 64 Tweak File--><m64tweak><description>The camera will start in Mario mode without needing to press the 'R' button.</description><patch>422C3: 05
+42BC7: 05</patch></m64tweak>
